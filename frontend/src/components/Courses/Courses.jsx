@@ -123,10 +123,10 @@ const Courses = () => {
                     pagination={{ clickable: true }}
                     breakpoints={
                         {
-                            640: {
+                            640.02: {
                                 slidesPerView: 2,
                             },
-                            768: {
+                            768.02: {
                                 slidesPerView: 3,
                             },
                             1024: {
