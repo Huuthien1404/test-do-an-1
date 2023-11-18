@@ -114,7 +114,6 @@ const Courses = () => {
                         disableOnInteraction: false
                     }}
                     slidesPerGroup={1}
-                    spaceBetween={20}
                     slidesPerView={1}
                     navigation={{
                         nextEl: ".custom_next",
