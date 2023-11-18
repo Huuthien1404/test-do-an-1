@@ -129,7 +129,7 @@ const Courses = () => {
                             768.02: {
                                 slidesPerView: 3,
                             },
-                            1024: {
+                            1024.02: {
                                 slidesPerView: 4,
                             },
 
