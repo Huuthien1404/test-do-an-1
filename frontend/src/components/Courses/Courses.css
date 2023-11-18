@@ -92,11 +92,13 @@
     margin-top: 20px;
     background-color: transparent;
     position: relative;
-    width: 90%;
+    width: 100%;
     max-width: 1280px;
     margin-left: auto;
     margin-right: auto;
     animation: transitionInBestCourse 1s;
+    overflow: hidden;
+    padding: 0 10px;
 }
 
 .best-seller-course-title {
