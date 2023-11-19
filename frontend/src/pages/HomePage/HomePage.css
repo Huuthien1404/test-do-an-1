@@ -200,7 +200,7 @@
     animation: transformInEditSuccess 1s ease forwards;
 }
 
-.close-change-edit-error,
+.close-change-edit-fail,
 .close-change-edit-success {
     position: fixed;
     top: 75px;
