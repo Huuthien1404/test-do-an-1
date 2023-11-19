@@ -39,7 +39,7 @@ const EditProfile = () => {
                 setShowLoadingEditBtn(true);
                 const res = await axios({
                     method: "PATCH",
-                    url: "https://webnc-2023.vercel.app/users/update-profilee",
+                    url: "https://webnc-2023.vercel.app/users/update-profile",
                     withCredentials: true,
                     data: {
                         firstName: firstName,
